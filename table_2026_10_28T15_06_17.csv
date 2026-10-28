@@ -1,0 +1,5 @@
+เกณฑ์,สถานะ,รายละเอียด
+Completeness,✅ ผ่าน,ทุก Stage (1-6) สร้าง artifact ครบ; Carry-Forward Block ครบทุก stage; SHOULD HAVE mockups เพิ่มแล้ว
+Consistency,✅ ผ่าน,"ระดับความเสี่ยง 4 ขั้น (🟢🟡🟠🔴) ใช้สม่ำเสมอทุก stage; Vehicle filter (15/40cm) สอดคล้อง Stage 1→4→6; SME Priority Formula เหมือนกันทุกที่; ทีม 5 คน ตรงกันทั้ง Stage 3, 4, 5"
+Traceability,✅ ผ่าน,F1-F5 ทุกฟังก์ชัน trace กลับไป Intent Statement ได้ (ดูตารางด้านล่าง)
+Feasibility Alignment,✅ ผ่าน,Scope 5 MUST HAVEs สอดคล้องกับ 7-day timeline + 5-person team + free tier budget ตามที่ Stage 3 ประเมิน; ไม่มีฟังก์ชันที่เกิน constraint

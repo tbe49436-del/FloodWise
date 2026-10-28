@@ -1,0 +1,9 @@
+Intent (จาก Stage 0/1),Feature,Stage 4
+"แอปเตือนน้ำท่วมที่ใช้งานได้จริง ไม่ใช่แค่เตือน",F1 Flood Alert + F2 Smart Route,✅ MUST
+"ปุ่มขอความช่วยเหลือ + ระบุกลุ่มเปราะบาง",F3 Emergency Help,✅ MUST
+"SME วางแผนขนย้ายสินค้า คำนวณเวลา",F4 SME Flood Planner,✅ MUST
+"Dashboard ผู้ประสานงานจัดลำดับความเร่งด่วน",F5 Response Dashboard,✅ MUST
+"ข้อมูลจากชุมชนเสริม sensor",S1 Community Reports,✅ SHOULD
+"เบอร์ฉุกเฉินโทรได้ทันที",S2 Emergency Contacts,✅ SHOULD
+"ความรู้รับมือน้ำท่วม + ข่าวสถานการณ์",S3 News & Knowledge,✅ SHOULD
+"ตั้งค่าการแจ้งเตือนตามความต้องการ",S4 Alert Settings,✅ SHOULD

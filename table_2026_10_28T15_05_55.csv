@@ -1,0 +1,10 @@
+#,หน้าจอ,จุดเด่น
+0,Onboarding,PDPA consent + เลือกบทบาท (ประชาชน/SME/กู้ภัย)
+1,Flood Alert Home,Status banner + Location cards พร้อม source+timestamp
+1.1,Location Detail,กราฟ 24 ชม. + คำแนะนำ + ลิงก์ไป Route
+2,Smart Route,Vehicle selector + Flood overlay + Safe route + Disclaimer
+3,Emergency Help,เบอร์ 1784 บนสุด + ประเภทคำขอ + กลุ่มเปราะบาง + GPS
+3.1,Help Status,Progress bar 4 ขั้น + หมายเหตุเจ้าหน้าที่ + โทรกลับ
+4A,SME Dashboard,สาขาทั้งหมด + เวลาเหลือ vs เวลาขนย้าย (เขียว/แดง)
+4B,Move Checklist,ลำดับขนย้าย + เส้นตัดเวลา + tick progress
+5,Response Dashboard,Split view (list + map + stats) + auto-sort urgency
